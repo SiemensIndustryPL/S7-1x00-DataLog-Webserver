@@ -6,7 +6,6 @@ A bunch of scripts for automating of DataLogs download via SIMATIC S7-1200/1500 
  <li>S7-1200 FW V4.4 (works partly)</li>
  <li>S7-1500 FW V2.8</li>
 </ul>
-<br />
 Creating ZIP archive on S7-1200 does not work well for too many DataLogs due to very low webserver performance. Hopefully this will change in the next HW or FW version. There's alternative option <strong>in preparation</strong> with downloading all DataLogs one after another.
 
 ### Setting up:
